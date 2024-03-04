@@ -1,0 +1,4 @@
+id,name,password,email,age,address
+1,Ilse,zapato22,ilsepff@gmail.com,30,Azcapoatraco
+2,Alex,zapato22,gbrayhan@gmail.com,29,Azcapoatraco
+3,Alex,zapato22,brayhan@gmail.com,29,Azcapoatraco
